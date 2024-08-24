@@ -67,10 +67,10 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'WIMS Doc',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'WIMS Logo',
+        src: 'img/WLogo.svg',
       },
       items: [
         {
@@ -94,7 +94,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Intro',
               to: '/docs/intro',
             },
           ],
@@ -120,7 +120,7 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Author',
               to: '/blog',
             },
             {
@@ -130,7 +130,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Reinaldo Miranda de Assis.`,
     },
     prism: {
       theme: prismThemes.github,
