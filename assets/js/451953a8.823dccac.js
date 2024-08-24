@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwims_docs=self.webpackChunkwims_docs||[]).push([[415],{1533:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/wims-doc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

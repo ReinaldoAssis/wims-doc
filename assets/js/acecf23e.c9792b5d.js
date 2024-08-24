@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwims_docs=self.webpackChunkwims_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/wims-doc/blog","blogTitle":"Blog","authorsListPath":"/wims-doc/blog/authors"}')}}]);
