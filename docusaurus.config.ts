@@ -104,15 +104,7 @@ const config: Config = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://stackoverflow.com/questions/tagged/oac-ufal',
             },
           ],
         },
@@ -121,11 +113,11 @@ const config: Config = {
           items: [
             {
               label: 'Author',
-              to: '/blog',
+              href: 'https://github.com/reinaldoassis',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/reinaldoassis/mips-sim',
             },
           ],
         },
