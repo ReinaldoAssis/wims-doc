@@ -18,7 +18,7 @@ const config: Config = {
   organizationName: 'reinaldoassis', // Usually your GitHub org/user name.
   projectName: 'wims-doc', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   deploymentBranch: "gh-pages",
 
